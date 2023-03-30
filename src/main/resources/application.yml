@@ -6,7 +6,7 @@ spring:
     name: ADDRESS-SERVICE
 
   datasource:
-    url: jdbc:mysql://localhost:3306/msuser
+    url: jdbc:mysql://localhost:3306/msstudent
     username: root
     password: Anuj@Kumar1
     driver-class-name: com.mysql.cj.jdbc.Driver
